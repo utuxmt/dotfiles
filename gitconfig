@@ -1,0 +1,11 @@
+# /etc/gitconfig
+
+[core]
+	editor=vim
+[alias]
+	st = status --branch
+	ci = commit -m
+[color]
+	diff = auto
+	status = auto
+	branch = auto
